@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
     private Button mRegisterButton;
     private Button mShowButton;
 
+    //Kambing Guling
+
     StudentsDAO studentsDAO = new StudentsDAO();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
