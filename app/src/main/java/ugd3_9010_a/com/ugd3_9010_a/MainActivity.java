@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
     //Kambing Guling
     //ASASASDASDASDA
     //aSDASDASDASDASDASDASDASDJKASDASJDIOAJSIODJOIASJDIOJAOIDJAIOJSD
-
+//HJHGJGJGKHUH
+    //suma asuu
     StudentsDAO studentsDAO = new StudentsDAO();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
